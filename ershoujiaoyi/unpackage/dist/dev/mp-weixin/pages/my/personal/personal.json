@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#2a82e4",
+  "backgroundColor": "#f7f7f7",
+  "usingComponents": {
+    "search-list": "../../components/SearchList"
+  }
+}

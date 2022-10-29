@@ -1,0 +1,63 @@
+
+page {
+		background-color: #f7f7f7;
+}
+
+.releaseMain.data-v-5fb87972 {
+  background-color: #fff;
+}
+.releaseTop.data-v-5fb87972 {
+  position: relative;
+  height: 50px;
+  background-color: #fff;
+}
+.commit.data-v-5fb87972 {
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  color: #469823;
+}
+.releaseMain.data-v-5fb87972 {
+  padding-bottom: 50px;
+}
+.releaseMain textarea.data-v-5fb87972 {
+  margin: 0 auto;
+  height: 100px;
+  background-color: #fff;
+}
+.releaseMain .uploadImage.data-v-5fb87972 {
+  width: 100%;
+  height: 100px;
+  margin-left: 50px;
+}
+.releaseMain .setPrice.data-v-5fb87972 {
+  height: 50px;
+  margin-top: 5px;
+  background-color: #fff;
+}
+.releaseMain .setPosition.data-v-5fb87972 {
+  height: 50px;
+  font-size: 18px;
+  text-align: center;
+  line-height: 50px;
+  background-color: #fff;
+  border-bottom: 1px solid #e6e6e6;
+}
+.releaseMain .Price.data-v-5fb87972 {
+  height: 500px;
+}
+.releaseMain .Price .setPriceTop.data-v-5fb87972 {
+  height: 80px;
+  border-bottom: 1px solid #e6e6e6;
+  position: relative;
+}
+.releaseMain .Price .btn.data-v-5fb87972 {
+  margin-top: 50px;
+  width: 50%;
+  color: #fff;
+  background-color: #12b02d;
+}
+.finalBtn.data-v-5fb87972 {
+  margin-top: 50px;
+  width: 50%;
+}

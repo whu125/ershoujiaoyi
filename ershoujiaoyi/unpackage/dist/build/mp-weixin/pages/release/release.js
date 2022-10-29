@@ -1,0 +1,1 @@
+"use strict";var e=require("../../common/vendor.js");Math||e.unref(r)();const r=()=>"../components/release.js",a={__name:"release",setup:r=>(r,a)=>({a:e.p({placeholder:"出:闲置/品牌/新旧程度"})})};wx.createPage(a);

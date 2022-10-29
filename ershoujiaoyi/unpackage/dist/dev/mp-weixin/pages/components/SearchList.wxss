@@ -1,0 +1,200 @@
+.searchItem.data-v-395c8614 {
+  position: relative;
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  background-color: #fff;
+  padding-bottom: 10px;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.searchItem .big.data-v-395c8614 {
+  display: flex;
+}
+.searchItem .userHead.data-v-395c8614 {
+  width: 20%;
+  height: 100%;
+}
+.searchItem .userHead image.data-v-395c8614 {
+  width: 40px;
+  height: 40px;
+  margin-top: 20px;
+  margin-left: 40rpx;
+  border-radius: 40px;
+}
+.searchItem .information.data-v-395c8614 {
+  width: 80%;
+  padding-right: 10px;
+}
+.searchItem .information .userInformation .userId.data-v-395c8614 {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+.searchItem .information .userInformation .userTime.data-v-395c8614 {
+  font-size: 10px;
+  color: #747474;
+}
+.searchItem .information .userInformation .userDescription.data-v-395c8614 {
+  position: relative;
+  line-height: 150%;
+  font-size: 14px;
+  padding-right: 20px;
+  padding: 20px 10px 20px 0;
+  margin-right: 20px;
+}
+.searchItem .information .itemImage.data-v-395c8614 {
+  display: flex;
+  height: 80px;
+}
+.searchItem .information .itemImage image.data-v-395c8614 {
+  width: 80px;
+  height: 80px;
+  margin-right: 10px;
+}
+.informationBottom.data-v-395c8614 {
+  position: relative;
+  height: 30px;
+  margin-top: 10px;
+  padding-right: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+button.data-v-395c8614::after {
+  border: none;
+}
+image.data-v-395c8614 {
+  height: 25px;
+  width: 25px;
+}
+.nowPrice.data-v-395c8614 {
+  position: absolute;
+  color: red;
+  font-weight: 700;
+  top: 15px;
+  right: 28px;
+  font-size: 18px;
+}
+.oldPrice.data-v-395c8614 {
+  position: absolute;
+  top: 40px;
+  color: #939393;
+  right: 28px;
+  font-size: 14px;
+  text-decoration: line-through;
+}
+.position.data-v-395c8614 {
+  position: absolute;
+  top: 20px;
+  color: #30bfbf;
+  right: 85px;
+  font-size: 14px;
+}
+.textConlectNumber.data-v-395c8614 {
+  position: absolute;
+  font-size: 12px;
+  left: 50%;
+  transform: translateX(-60rpx);
+  bottom: 7px;
+}
+.textCommentNumber.data-v-395c8614 {
+  position: absolute;
+  font-size: 12px;
+  left: 50%;
+  transform: translateX(95rpx);
+  bottom: 7px;
+}
+.comment.data-v-395c8614 {
+  margin: 0 auto;
+  padding-left: 10px;
+  padding-right: 5px;
+  background-color: #f6f6f6;
+  min-height: 20px;
+  width: 280px;
+}
+.comment .textCommentId.data-v-395c8614 {
+  line-height: 20px;
+  font-size: 12px;
+  color: #5858f0;
+}
+.comment .textComment.data-v-395c8614 {
+  line-height: 20px;
+  font-size: 12px;
+  color: black;
+}
+.commentDark.data-v-395c8614 {
+  margin: 0 auto;
+  background-color: #ccc;
+  min-height: 20px;
+  width: 280px;
+}
+.popup-content.data-v-395c8614 {
+  text-align: center;
+  margin: 0 auto;
+  line-height: 50px;
+  height: 50px;
+  background-color: #fff;
+}
+.cancel.data-v-395c8614 {
+  position: absolute;
+  text-align: center;
+  line-height: 35px;
+  bottom: -35px;
+  width: 100%;
+  height: 35px;
+  background-color: pink;
+}
+.sendComment.data-v-395c8614 {
+  position: relative;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 60px;
+  background-color: #f6f6f6;
+  margin-bottom: 10px;
+  height: 30px;
+  width: 300px;
+}
+.commentBtn.data-v-395c8614 {
+  position: absolute;
+  color: #fff;
+  background-color: #5b8bfc;
+  z-index: 999;
+  font-size: 14px;
+  line-height: 25px;
+  width: 50px;
+  padding: 0;
+  height: 25px;
+  bottom: 25rpx;
+  right: 60rpx;
+}
+.commentParent.data-v-395c8614 {
+  position: relative;
+}
+.shareBtn.data-v-395c8614 {
+  height: 100%;
+  transform: translateY(-10rpx);
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  align-items: center;
+}
+.shareBtn.data-v-395c8614::after {
+  border: none;
+}
+.isDone.data-v-395c8614 {
+  position: absolute;
+  z-index: 2;
+  font-size: 20px;
+  left: 120rpx;
+  top: 30%;
+  opacity: 0.7;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #c1c1c1;
+  padding: 5px 15px;
+  transform: rotate(-0.1turn);
+}
+.Donebgc.data-v-395c8614 {
+  background-color: #fafafa;
+}

@@ -1,0 +1,9 @@
+{
+  "name": "updateSaying",
+  "dependencies": {
+    "wx-common": "file:../common/wx-common"
+  },
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

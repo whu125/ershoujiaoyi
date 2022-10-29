@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/my/my",
+    "pages/release/index",
+    "pages/release/release",
+    "pages/release/buy",
+    "pages/my/contact/contact",
+    "pages/my/myrelease/myrelease",
+    "pages/my/myconlect/myconlect",
+    "pages/my/mycomment/mycomment"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/shouye.png",
+        "selectedIconPath": "static/shouye_active.png"
+      },
+      {
+        "pagePath": "pages/release/index",
+        "iconPath": "static/tianjia.png",
+        "selectedIconPath": "static/fabu_active.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/mine.png",
+        "selectedIconPath": "static/mine_active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

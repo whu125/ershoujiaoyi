@@ -1,0 +1,7 @@
+{
+  "name": "updateItemlistsConnect",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

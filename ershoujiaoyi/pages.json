@@ -1,0 +1,117 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "发现",
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 100
+			}
+		}, {
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#2a82e4",
+				"backgroundColor": "#F8F8F8"
+
+			}
+
+		},
+		{
+			"path": "pages/release/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#2a82e4",
+				"backgroundColor": "#F8F8F8"
+			}
+
+		},
+		{
+			"path": "pages/release/release",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#2a82e4",
+				"backgroundColor": "#F8F8F8"
+			}
+
+		},
+		{
+			"path": "pages/release/buy",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#2a82e4",
+				"backgroundColor": "#F8F8F8"
+			}
+
+		},
+		{
+			"path": "pages/my/contact/contact",
+			"style": {
+				"navigationBarTitleText": "个人联系方式填写",
+				"navigationBarBackgroundColor": "#2e92fc"
+			}
+		}, {
+			"path": "pages/my/myrelease/myrelease",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/my/myconlect/myconlect",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/my/mycomment/mycomment",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/my/personal/personal",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#2a82e4",
+				"backgroundColor": "#f7f7f7"
+			}
+
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/shouye.png",
+				"selectedIconPath": "static/shouye_active.png"
+
+			},
+			{
+				"pagePath": "pages/release/index",
+				"iconPath": "static/tianjia.png",
+				"selectedIconPath": "static/fabu_active.png"
+			},
+			{
+				"pagePath": "pages/my/my",
+				"iconPath": "static/mine.png",
+				"selectedIconPath": "static/mine_active.png"
+			}
+		]
+
+	},
+	"uniIdRouter": {}
+}

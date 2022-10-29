@@ -1,0 +1,7 @@
+{
+  "name": "updateConnect",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

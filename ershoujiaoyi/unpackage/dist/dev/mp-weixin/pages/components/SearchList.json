@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "unicloud-db": "../../node-modules/@dcloudio/uni-components/lib/unicloud-db/unicloud-db",
+    "uni-popup": "../../uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "uni-card": "../../uni_modules/uni-card/components/uni-card/uni-card",
+    "uni-popup-dialog": "../../uni_modules/uni-popup/components/uni-popup-dialog/uni-popup-dialog"
+  }
+}

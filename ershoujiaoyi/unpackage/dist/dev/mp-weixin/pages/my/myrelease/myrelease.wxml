@@ -1,0 +1,1 @@
+<view wx:if="{{a}}" class=""><search-list wx:if="{{b}}" u-i="3c951320-0" bind:__l="__l" u-p="{{b}}"></search-list></view>
